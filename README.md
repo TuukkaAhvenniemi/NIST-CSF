@@ -6,9 +6,7 @@ Tämä repositorio tarjoaa lukijaystävällisen ja helposti seurattavan näkymä
 NIST Cybersecurity Framework (CSF) 2.0:aan.
 
 Tavoitteena on selkeyttää hallinto-, riskienhallinta- ja palautumismekanismeja
-sekä juridisia ja compliance-aspekteja, jotta lukija näkee kokonaisuuden nopeasti.  
-
-Varsinainen tekninen sisältö on sijoitettu omiin SP 800 -kansioihin.
+sekä juridisia ja compliance-aspekteja, jotta lukija näkee kokonaisuuden nopeasti. 
 
 ---
 
