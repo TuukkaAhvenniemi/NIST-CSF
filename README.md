@@ -29,13 +29,13 @@ Varsinainen tekninen sisältö on sijoitettu omiin SP 800 -kansioihin.
 
 Varsinaiset NIST SP 800 -julkaisut on sijoitettu omiin kansioihinsa:
 
-- **SP_800-30/** – Risk Assessment  
-- **SP_800-34/** – Contingency Planning  
-- **SP_800-53/** – Security & Privacy Controls  
-- **SP_800-61/** – Incident Response  
-- **SP_800-92/** – Logging & Monitoring  
-- **SP_800-171/** – Controlled Unclassified Information (CUI)  
-- **SP_800-184/** – Cybersecurity Event Recovery  
+- **/SP_800-30** – Risk Assessment  
+- **/SP_800-34** – Contingency Planning  
+- **/SP_800-53** – Security & Privacy Controls  
+- **/SP_800-61** – Incident Response  
+- **/SP_800-92** – Logging & Monitoring  
+- **/SP_800-171** – Controlled Unclassified Information (CUI)  
+- **/SP_800-184** – Cybersecurity Event Recovery  
 
 Jokaisessa kansiossa on oma `README.md`, joka sisältää teknisen analyysin, kontrollit, riskimallit, lokitus- ja palautussuunnitelmat.
 
@@ -46,16 +46,6 @@ Jokaisessa kansiossa on oma `README.md`, joka sisältää teknisen analyysin, ko
 - Juuren tiedostot toimivat **lukijaystävällisenä tiivistyksenä** CSF 2.0 -funktioista  
 - SP-kansiot sisältävät **teknisen toteutuksen yksityiskohdat**  
 - Tämä erottaa selkeästi **ihmisille suunnatun tiivistyksen** ja **teknisen analyysin**
-
----
-
-## Kohdeyleisö
-
-- Johtajat ja päättäjät, jotka haluavat kokonaiskuvan  
-- Tietoturva-arkkitehdit ja SOC-analyytikot  
-- Häiriönhallinnan asiantuntijat  
-- Compliance- ja audit-asiantuntijat  
-- IT-ammattilaiset, jotka haluavat ymmärtää NIST CSF 2.0 kokonaisuuden  
 
 ---
 
