@@ -17,9 +17,7 @@ sekä juridisia ja compliance-aspekteja, jotta lukija näkee kokonaisuuden nopea
 - **Protect.md** – Suojausmekanismit ja kontrollit tiivistettynä  
 - **Detect.md** – Tunnistus, lokitus ja valvonta  
 - **Respond.md** – Häiriönhallinta ja toimenpiteet  
-- **Recover.md** – Palautuminen ja jatkuvuussuunnittelu  
-
-> Nämä tiedostot käsittelevät juridista ja organisatorista kontekstia ja linkittävät tarvittaessa SP- ja ISO-dokumentteihin.
+- **Recover.md** – Palautuminen ja jatkuvuussuunnittelu 
 
 ---
 
@@ -33,10 +31,8 @@ Varsinaiset NIST SP 800 -julkaisut on sijoitettu omiin kansioihinsa:
 - **/SP_800-61** – Incident Response  
 - **/SP_800-92** – Logging & Monitoring  
 - **/SP_800-171** – Controlled Unclassified Information (CUI)  
-- **/SP_800-184** – Cybersecurity Event Recovery  
-
-Jokaisessa kansiossa on oma `README.md`, joka sisältää teknisen analyysin, kontrollit, riskimallit, lokitus- ja palautussuunnitelmat.
-
+- **/SP_800-184** – Cybersecurity Event Recovery
+  
 ---
 
 ## Navigointi ja linkitykset
